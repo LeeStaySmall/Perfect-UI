@@ -1,3 +1,7 @@
-设计者：翟志强
+designer : 翟志强
 
-代码：Madman
+code : Madman
+
+start time : 2017-12-25
+
+status : development phase
